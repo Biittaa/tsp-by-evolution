@@ -10,3 +10,5 @@ Ensure the following are installed on your system:
   ```bash
    pip install numpy matplotlib
 Clone the repository to your local machine:
+```bash
+   git clone https://github.com/yourusername/evo-tsp-solver.git
