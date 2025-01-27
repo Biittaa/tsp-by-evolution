@@ -6,7 +6,7 @@ This solver aims to provide an efficient approach to TSP by mimicking processes 
 # Setup
 Ensure the following are installed on your system:
 - Python 3.x
--Required library:
+- Required library:
   ```bash
    pip install numpy matplotlib
 Clone the repository to your local machine:
