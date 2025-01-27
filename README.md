@@ -34,7 +34,7 @@ Run the main script:
 The algorithm will execute, solve the TSP problem using the evolutionary approach, and output the optimized route.
 
 # Acknowledgments
-- This project is part of the computation ai course.
+- This project is part of the Computation Intelligence course.
 - References and inspiration from works in genetic algorithms and optimization.
 
 # Authors
