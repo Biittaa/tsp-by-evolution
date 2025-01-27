@@ -8,7 +8,11 @@ Ensure the following are installed on your system:
 - Python 3.x
 - Required library:
   ```bash
-   pip install numpy matplotlib
+   pip install numpy matplotlib 
 Clone the repository to your local machine:
   ```bash
-   git clone https://github.com/yourusername/evo-tsp-solver.git
+    git clone https://github.com/Biittaa/tsp-by-evolution.git
+  ```
+Once you have cloned the repository and installed the dependencies, you can run the main algorithm.
+
+Run the main script:
