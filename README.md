@@ -24,3 +24,6 @@ The algorithm will execute, solve the TSP problem using the evolutionary approac
 # Acknowledgments
 - This project is part of the computation ai course.
 - References and inspiration from works in genetic algorithms and optimization.
+
+# Authors
+- [Bita Asheghie](https://github.com/Biittaa)
