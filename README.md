@@ -3,7 +3,10 @@ The Traveling Salesman Problem (TSP) is a classic problem in optimization, where
 
 This solver aims to provide an efficient approach to TSP by mimicking processes like mutation, crossover, and selection in nature.
 
-# Installation
-1.Clone the repository
-2.Ensure you have Python 3.x installed.
-3.run the main file.
+# Setup
+Ensure the following are installed on your system:
+- Python 3.x
+-Required library:
+  ```bash
+   pip install numpy matplotlib
+Clone the repository to your local machine:
