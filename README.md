@@ -14,7 +14,7 @@ The evolutionary algorithm implemented in this project consists of the following
 - Mutation: The offspring undergo mutation, where small random changes are made to the route to introduce genetic diversity.
 
 - Replacement: The new population of offspring replaces the old population, and the process repeats for a set number of generations.
-- 
+
 # Setup
 Ensure the following are installed on your system:
 - Python 3.x
